@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Programs\\Anaconda3\\python.exe",
+    "python.linting.pylintArgs": ["--init-hook",
+        "import sys; sys.path.append('D:\\Git\\Projects\\UltimateScreenRecorder')"
+    ]
+}
